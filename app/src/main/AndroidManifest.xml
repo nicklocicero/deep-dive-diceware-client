@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="edu.cnm.deepdive.dicewareclient">
-  <!-- TODO Change package name, to use student's initials. -->
+  package="edu.cnm.deepdive.nsl_dicewareclient">
 
   <uses-permission android:name="android.permission.INTERNET"/>
 
   <application
-    android:name=".DicewareApplication"
+    android:name="edu.cnm.deepdive.nsl_dicewareclient.DicewareApplication"
     android:allowBackup="false"
     android:icon="@mipmap/ic_launcher"
     android:label="@string/app_name"
@@ -14,10 +13,10 @@
     android:supportsRtl="true"
     android:theme="@style/AppTheme">
     <activity
-      android:name=".MainActivity"
+      android:name="edu.cnm.deepdive.nsl_dicewareclient.MainActivity"
       android:label="@string/app_name"/>
     <activity
-      android:name=".LoginActivity"
+      android:name="edu.cnm.deepdive.nsl_dicewareclient.LoginActivity"
       android:label="@string/app_name">
       <intent-filter>
         <action android:name="android.intent.action.MAIN"/>
