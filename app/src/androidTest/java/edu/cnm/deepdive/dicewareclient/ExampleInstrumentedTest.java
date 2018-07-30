@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.njb.dicewareclient;
+package edu.cnm.deepdive.dicewareclient;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
     // Context of the app under test.
     Context appContext = InstrumentationRegistry.getTargetContext();
 
-    assertEquals("edu.cnm.deepdive.njb.dicewareclient", appContext.getPackageName());
+    assertEquals("edu.cnm.deepdive.dicewareclient", appContext.getPackageName());
   }
 }

@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.njb.dicewareclient;
+package edu.cnm.deepdive.dicewareclient;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

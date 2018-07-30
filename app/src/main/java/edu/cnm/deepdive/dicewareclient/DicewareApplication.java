@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.njb.dicewareclient;
+package edu.cnm.deepdive.dicewareclient;
 
 import android.app.Application;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
