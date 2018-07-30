@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Diceware Client</string>
+  <!-- TODO Fill in web_client_id -->
+  <string name="web_client_id"></string>
+  <string name="request_passphrase">Request Passphrase</string>
+  <string name="action_logout">Sign out</string>
+  <string name="base_url">http://10.0.2.2:18081/rest/</string> <!-- Access localhost from emulator. -->
+  <string name="oauth2_header_format">Bearer %1$s</string>
+</resources>
