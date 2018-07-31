@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "edu.cnm.deepdive.dicewareclient"
+        applicationId "edu.cnm.deepdive.nsl_dicewareclient"
         minSdkVersion 21
         targetSdkVersion 27
         versionCode 1
